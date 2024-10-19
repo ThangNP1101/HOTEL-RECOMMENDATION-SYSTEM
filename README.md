@@ -12,7 +12,7 @@ Please reach this link to see the demo: [Link Demo](https://www.youtube.com/watc
 ### 2. Dataset  
 #### 1. Data collection 
 - The dataset used in this study is the **Hotel Booking Rating Dataset**, scraped from Booking.com and available on Kaggle. It contains 38,801 rows with 9 columns, covering 4,506 hotels across 10 provinces/cities, and 6,471 users. [Link Dataset](https://www.kaggle.com/datasets/phamtheds/hotel-booking-rating-dataset).
-- ![Data descriptions](repo_img/hotel_var.jpg)
+ ![Data descriptions](repo_img/hotel_var.jpg)
 #### 2. Data processing 
 Clean data is crucial for building accurate and generalizable forecasting models. In our study, we encountered sparse data, where many users provided few reviews, complicating the evaluation of recommendation systems. To optimize our dataset for a Collaborative filtering approach, we processed the data to create suitable training and testing sets.  
 - We filtered for users with 30 or more ratings, resulting in 139 users.
@@ -37,7 +37,7 @@ The overall structure of our proposed system **GHUC - Graph-based Hybrid User Co
 - In our experiment, we utilize GLocal-K and GHRS, both of which excel in addressing data sparsity and the cold start problem in recommendation systems. To enhance the GHRS model, we integrate the Similarity Graph with User Demographic information, effectively tackling issues related to cold starts and sparse rating matrices.
 - Additionally, we introduce the GHUC (Graph Hybrid User Context) model to address the challenge of missing user information, which aids in the development of new methodologies discussed in this section. Finally, we combine these traditional methods based on GLocal-K, specifically forming Ensemble GlocalK+GHUC and Ensemble GlocalK+GHRS to further improve recommendation accuracy.
 ## Summary  
-In this project, we developed a new model for hotel recommendation systems based on a Graph-based Recommendation System method integrated with **User Context**. We also introduced several combined methods to enhance performance. Our results suggest that the **Graph-based User Context** approach can be effectively applied to hotel recommendation systems and further adapted for other recommendation contexts. Although we faced challenges due to the sparse dataset, we successfully identified optimal solutions to address this issue.
+In this project, we developed a new model for hotel recommendation systems based on a **Graph-based Recommendation System** method integrated with **User Context**. We also introduced several combined methods to enhance performance. Our results suggest that the **Graph-based User Context** approach can be effectively applied to hotel recommendation systems and further adapted for other recommendation contexts. Although we faced challenges due to the sparse dataset, we successfully identified optimal solutions to address this issue.
 ```
 If you found this helpful, kindly consider leaving a ⭐⭐⭐⭐⭐. 
 Thanks for your attention!
