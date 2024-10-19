@@ -1,7 +1,7 @@
 # Hotel-Recommendation-System
-Member: 
-Nguyễn Phước Thắng - ThangNP1101
-Nguyễn Ngô Thành Đạt - Sonny-Inkai
+Member:  
+Nguyễn Phước Thắng - ThangNP1101  
+Nguyễn Ngô Thành Đạt - Sonny-Inkai  
 ## Graph Hybrid User Context (GHUC)
 *"This repo is being updated. Please Watch the repo for upcomming updates and codes"*
 ![System Architecture](/repo_img/GHUC.drawio.png)
