@@ -3,7 +3,7 @@
 Nguyễn Phước Thắng - ThangNP1101  
 Nguyễn Ngô Thành Đạt - Sonny-Inkai  
 #### Demo:  
-Please reach this link to see the demo: [Link Demo](repo_img/icons8-youtube-48.png)(https://www.youtube.com/watch?v=eyEq0Ukkv2Y)  
+Please reach this link to see the demo: [Link Demo](repo_img/icons8-youtube-48.png)](https://www.youtube.com/watch?v=eyEq0Ukkv2Y)  
 ## Introduction  
 ### 1. Methods  
 - In this research, we develop a hotel recommendation system using a ***hybrid approach***. We combine ***Content-based filtering*** and ***Collaborative filtering*** to improve recommendation accuracy.
