@@ -1,4 +1,4 @@
-<p align="center"># Hotel-Recommendation-System</p>
+# <p align="center">Hotel-Recommendation-System</p>
 ### Member:  
 #### Nguyễn Phước Thắng - ThangNP1101  
 #### Nguyễn Ngô Thành Đạt - Sonny-Inkai  
